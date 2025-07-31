@@ -1,7 +1,0 @@
-main() {
-    mut n be 10
-    x be f"Hello {n}"
-    if n < 11 {
-        println!(x)
-    }
-}
